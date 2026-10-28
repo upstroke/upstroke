@@ -20,10 +20,10 @@ I combine long-term enterprise UI experience with digital accessibility, quality
 **AI & automation:** Agentic AI workflows, Cline, context engineering, AI-assisted test generation  
 **Additional experience:** Adobe Experience Manager, TYPO3, Contentful, Web Components, design systems
 
-## Selected work
+## Selected work (public)
 
-- **[TMDB SvelteKit Frontend](https://github.com/upstroke/tmdb-sveltekit-frontend)** — A movie and TV discovery application built with SvelteKit and the TMDB API, including unit, integration, E2E and accessibility-focused testing.
 - **[TMDB Next.js Frontend](https://github.com/upstroke/tmdb-nextjs-frontend)** — A Next.js application for browsing movies and TV shows, with typed TMDB integration and runtime data validation using Zod.
+- **[TMDB SvelteKit Frontend](https://github.com/upstroke/tmdb-sveltekit-frontend)** — A movie and TV discovery application built with SvelteKit and the TMDB API, including unit, integration, E2E and accessibility-focused testing.
 - **[TMDB Stencil Frontend](https://github.com/upstroke/tmdb-stencil-frontend)** — A Stencil.js-based implementation exploring reusable Web Components for a media discovery interface.
 
 ## Professional background
@@ -33,7 +33,8 @@ I have worked as a freelance Senior Frontend Engineer and IT Consultant on busin
 Selected clients and projects include:
 
 - Sparkassen-Finanzgruppe / Finanzinformatik
-- REWE Digital / MeinAuto
+- REWE Digital
+- MeinAuto
 - Deutsche Börse
 - Thalia
 - Bosch / Siemens BSH
