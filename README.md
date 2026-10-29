@@ -47,6 +47,7 @@ Selected clients and projects include:
 
 ## Contact
 
+- [LinkeIn](https://www.linkedin.com/in/gregor-arz)
 - [freelance.de](https://www.freelance.de/Freiberufler/13407)
 - [GULP](https://www.gulp.de/gulp2/home/profil/g.arz)
 - [Email](mailto:g.arz@webtutorials.de)
