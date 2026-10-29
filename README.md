@@ -18,7 +18,7 @@ I combine long-term enterprise UI experience with digital accessibility, quality
 **Frontend:** SvelteKit, React, Next.js, Vue, Nuxt, TypeScript, JavaScript, HTML, CSS  
 **Testing & quality:** Vitest, Playwright, Cypress, ISTQB® CTFL 4.0  
 **AI & automation:** Agentic AI workflows, Cline, context engineering, AI-assisted test generation  
-**Additional experience:** Adobe Experience Manager, TYPO3, Contentful, Web Components, design systems
+**Additional experience:** Design Systems, Accessibility (WCAG, BITV, BFSG), White-Label Frontends, Style Guides, AI-driven Testing
 
 ## Selected work (public)
 
